@@ -11,7 +11,15 @@ Jetzt liegt mein Schwerpunkt auf der **Anwendungsentwicklung**: Ich möchte mein
 - **Programmierung:** Java, objektorientierte Programmierung (OOP)
 - **Entwicklungswerkzeuge:** Git, GitHub, IntelliJ IDEA
 - **Erfahrungen aus bisherigen IT-Projekten:** Selenium, TestNG, Cucumber, Postman, Jira
-
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23F14336.svg?style=flat)
+![Cucumber](https://img.shields.io/badge/Cucumber-%23197A32.svg?style=flat)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white)
 ## 📌 Aktuelles Projekt
 
 ### [java-fundamentals](https://github.com/ssewoesterlab/java-fundamentals)
