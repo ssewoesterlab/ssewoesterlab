@@ -11,6 +11,7 @@ Jetzt liegt mein Schwerpunkt auf der **Anwendungsentwicklung**: Ich möchte mein
 - **Programmierung:** Java, objektorientierte Programmierung (OOP)
 - **Entwicklungswerkzeuge:** Git, GitHub, IntelliJ IDEA
 - **Erfahrungen aus bisherigen IT-Projekten:** Selenium, TestNG, Cucumber, Postman, Jira
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23F14336.svg?style=flat)
