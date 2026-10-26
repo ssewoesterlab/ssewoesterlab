@@ -25,7 +25,7 @@ Jetzt liegt mein Schwerpunkt auf der **Anwendungsentwicklung**: Ich möchte mein
 
 ### [java-fundamentals](https://github.com/ssewoesterlab/java-fundamentals)
 
-Eine Sammlung von **15 Java-Übungen** zu grundlegenden Programmierkonzepten, darunter Bedingungen, Schleifen, Methoden, Arrays und einfache Algorithmen.
+Eine Sammlung von **16 Java-Übungen** zu grundlegenden Programmierkonzepten, darunter Bedingungen, Schleifen, Methoden, Arrays und einfache Algorithmen.
 
 Beispiele:
 - Login-Simulation mit Eingabeprüfung
